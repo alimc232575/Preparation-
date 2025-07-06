@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Libre Baskerville', serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.image-container {
+  margin-top: 50px;
+}
+
+.image-container img {
+  width: 400px;
+  height: auto;
+  border: 5px solid white;
+}
+
+.caption {
+  font-size: 28px;
+  margin-top: 20px;
+}
+
+.sub-caption {
+  font-size: 18px;
+  color: #ccc;
+}
